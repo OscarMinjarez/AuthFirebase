@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441612574042",
+    "project_id": "test-login-bdfab",
+    "storage_bucket": "test-login-bdfab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441612574042:android:98306dd233d66274772763",
+        "android_client_info": {
+          "package_name": "minjarez.oscar.practicaautenticacionminjarezo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9TN5FO9XzEOd2BX_MPjj8Kzv5WYhQUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
